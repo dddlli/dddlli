@@ -219,10 +219,13 @@ Mac                      42 hrs 19 mins      ███████████�
 <a href="https://github.com/dddlli/Swin-Transformer-Object-Detection-PaddlePaddle">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dddlli&repo=Swin-Transformer-Object-Detection-PaddlePaddle&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
  
-<div align="center" >
-![](https://activity-graph.herokuapp.com/graph?username=dddlli&theme=github)
-</div>
-
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dddlli&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+      
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
 </div>
