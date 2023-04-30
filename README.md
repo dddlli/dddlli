@@ -57,10 +57,11 @@
   - 技术栈 Spring+Tomcat+MySQL
   - 效果 作品最终获得第十二届“挑战杯”甘肃省大学生创业计划竞赛省级银奖、校级一等奖。
 
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-15
+- [基于深度学习的农业病虫害检测与识别] &emsp; 📌 2023-02-20 —— 2023-05-15
   
-  - 工作岗位：Web前端开发实习生
-  - 工作方向：一站式数据治理与开发
+  - 技术栈 Flask+SQLite
+  - 目标 结合现有农业病虫害数据建模，精准检测和识别病虫害。
+  - 效果 作品最终获得甘肃省程序设计大赛二等奖。
 
 </td>
 </tr>
@@ -68,13 +69,14 @@
 <tr><td>
 
 <!-- 近期博客 -->
-### 📃 Recent Blog
+### 📃 Recent AiStudio
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/archives/brain' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/archives/20230225' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
+* <a href='https://aistudio.baidu.com/aistudio/projectdetail/6069720' target='_blank'>第二届广州·琶洲算法大赛-基于复杂场景的输电通道隐患目标检测算法baseline
+</a> - 2023-03-26
+* <a href='https://aistudio.baidu.com/aistudio/projectdetail/5682527' target='_blank'>【飞桨黑客松-AIGC - DreamBooth LoRA】HomeTown</a> - 2023-02-25
 * <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
 * <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
 * <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
