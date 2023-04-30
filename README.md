@@ -219,13 +219,7 @@ Mac                      42 hrs 19 mins      ███████████�
 <a href="https://github.com/dddlli/Swin-Transformer-Object-Detection-PaddlePaddle">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dddlli&repo=Swin-Transformer-Object-Detection-PaddlePaddle&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
   
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/running/assets/github_2023.svg" /></a><br></td>
-  </tr>
-</table>
-</div>
+
 
 
 <!-- just img 图片 -->
