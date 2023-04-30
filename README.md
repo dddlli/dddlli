@@ -19,7 +19,6 @@
     <a href="https://blog.csdn.net/dddlli"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/pet-57-57"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=dddlli" alt="访客统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -37,9 +36,9 @@
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;大家好，我是小孙同学。</p>
-<p>&emsp;&emsp;目前就读于安徽理工大学地理信息科学专业。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+<p>&emsp;&emsp;大家好，我是小李同学。</p>
+<p>&emsp;&emsp;即将就读于西北师范大学人工智能专业。</p>
+<p>&emsp;&emsp;热爱计算机科学、IT互联网和人工智能事业，励志成为一名计算机视觉算法工程师!</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p>&emsp;&emsp;长风破浪会有时，直挂云帆济沧海。我开始得太晚了，但总不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变...</p>
@@ -49,14 +48,14 @@
 <tr>
 <td>
   
-### 🏢 Work Experience
+### 🏢 Program Experience
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
   
-<!-- - [广州图慧信息科技有限公司](https://120.79.217.107/) &emsp; 📌 Todo
+- [基于数据分析的奖助学金管理系统] &emsp; 📌 Todo
   
-  - 工作岗位：Web前端开发工程师
-  - 工作内容：GIS相关 -->
+  - 技术栈 Spring+Tomcat+MySQL
+  - 效果 作品最终获得第十二届“挑战杯”甘肃省大学生创业计划竞赛省级银奖、校级一等奖。
 
 - [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-15
   
