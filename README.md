@@ -75,28 +75,14 @@
 
 <!-- START_SECTION:blog -->
 * <a href='https://aistudio.baidu.com/aistudio/projectdetail/6069720' target='_blank'>第二届广州·琶洲算法大赛-基于复杂场景的输电通道隐患目标检测算法baseline
-</a> - 2023-03-26
-* <a href='https://aistudio.baidu.com/aistudio/projectdetail/5682527' target='_blank'>【飞桨黑客松-AIGC - DreamBooth LoRA】HomeTown</a> - 2023-02-25
-* <a href='https://blog.sunguoqi.com/archives/github_profile_0' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
-* <a href='https://blog.sunguoqi.com/archives/chatgpt' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
-* <a href='https://blog.sunguoqi.com/archives/wechat_mp' target='_blank'>请接受像“屎”一样的开始</a> - 2023-01-27
+</a> - 2023-04-28
+* <a href='https://aistudio.baidu.com/aistudio/projectdetail/5682527' target='_blank'>【飞桨黑客松-AIGC - DreamBooth LoRA】HomeTown</a> - 2023-03-11
+* <a href='https://aistudio.baidu.com/aistudio/projectdetail/4647849' target='_blank'>基于PP-YOLOE+的水下生物目标检测+部署
+</a> - 2022-10-05
+* <a href='https://aistudio.baidu.com/aistudio/projectdetail/4413501' target='_blank'>安防重点场景异常行为识别--抽烟、打电话</a> - 2022-08-08
+* <a href='https://aistudio.baidu.com/aistudio/projectdetail/4307620' target='_blank'>PaddleLightModel--“轻量化模型，带你体验极致轻的感觉“
+</a> - 2022-07-05
 <!-- END_SECTION:blog -->
-
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/pages/9de702/' target='_blank'>console.log("Hello World")</a> - 2023-04-09
-* <a href='https://brain.sunguoqi.com/pages/9207e1/' target='_blank'>前端发展简史</a> - 2023-04-09
-* <a href='https://brain.sunguoqi.com/pages/0ef920/' target='_blank'>前端学习路线</a> - 2023-04-02
-* <a href='https://brain.sunguoqi.com/pages/eefead/' target='_blank'>准备开发软件</a> - 2023-04-27
-* <a href='https://brain.sunguoqi.com/pages/6eab22/' target='_blank'>认识HTML</a> - 2023-04-27
-<!-- END_SECTION:brain -->
 
 </td></tr>
 
@@ -107,11 +93,11 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://book.douban.com/subject/26648884/' target='_blank'>最近在读干法</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-28
+* <a href='https://movie.douban.com/subject/35267208' target='_blank'>看过流浪地球</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='[今天也想见到你](https://music.douban.com/subject/33379438/)' target='_blank'>今天也想见到你</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://movie.douban.com/subject/35588177/' target='_blank'>在看漫长的季节</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 <!-- END_SECTION:douban -->
 
 </td></tr>
@@ -173,32 +159,6 @@ Mac                      42 hrs 19 mins      ███████████�
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-
-
-```mermaid
-mindmap
-  root((小孙同学))
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      人文
-      建筑
-      风景
-    旅行
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      心理
-      计算机技术
-```
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
