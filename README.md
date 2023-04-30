@@ -202,9 +202,6 @@ Mac                      42 hrs 19 mins      ███████████�
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
-
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
   
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
